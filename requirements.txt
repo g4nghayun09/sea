@@ -1,1 +1,7 @@
 streamlit
+xarray
+numpy
+plotly
+streamlit-folium
+folium
+matplotlib
